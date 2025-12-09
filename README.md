@@ -1,7 +1,7 @@
 <<<<<<< HEAD
-# School Management System
+# ORBIT CAMPUS ( smart campus management system)
 
-This is a comprehensive school management system designed to streamline various administrative and academic processes. It provides a centralized platform for students, teachers, parents, and administrators to manage their daily activities efficiently.
+This is a comprehensive college management system designed to streamline various administrative and academic processes. It provides a centralized platform for students, teachers, parents, and administrators to manage their daily activities efficiently.
 
 ## Features
 
@@ -79,4 +79,4 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 =======
 # Orbit-Campus
 It's like a college management system 
->>>>>>> 94cd59aa4a3d875d95d4fd2f34d8458f7a99ce91
+
